@@ -2,5 +2,5 @@
 
 ## This is my readme file.
 
-###Bio and description of site. My technical writing portfolio. It's _**awesome!**_
+### Bio and description of site. My technical writing portfolio. It's _**awesome!**_
 
