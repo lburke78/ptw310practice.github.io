@@ -7,21 +7,21 @@
 <p>While returning to the classroom can feel intimidating for those who have been away for a number of years, know that it is never too late to start working toward a college degree. The path through higher education has changed significantly in the last 20 years, and the average college student is now <a href="https://www.usnews.com/best-colleges/rankings/most-over-25">over 25 years old</a>. Not only does this mean that adult learners will find a range of age groups on their chosen campus, but many colleges and universities have made adjustments to more traditional practices to make room for working adults.</p>
 <p>That said, adult learners should carefully weigh the time commitment and expense of a degree or certificate program before enrolling. For those working full-time jobs and/or raising families, it is important to research both your intended program and institution before committing. This guide will provide guidance for adults as they navigate the process of career exploration and college admission.
 </p>
-<h2 style="color:orange;">Choosing a Path</h2>
+<h1 style="color:orange;">Choosing a Path</h1>
 <p>
 	Some adult learners already have a path in mind based upon the requirements of their current position, their experience in a certain field, or exposure to a specific career. For those who are sorting out the best path forward it is worth doing research before beginning the admissions process. Below is a list of possible approaches to this research.
 </p>
-<h3 style="color:orange;">Exploring Your Field</h3>
-<h4 style="color:slateblue;">Why do Research?</h4>
+<h2 style="color:orange;">Exploring Your Field</h2>
+<h3 style="color:slateblue;">Why do Research?</h3>
 
 <p>Most fields and careers involve more than is on the surface, and there are plenty of resources to give you a better sense of the day-to-day routine associated with a position. Students entering veterinary science fields, for example, often do so because they love animals. However, many are surprised to learn that much of their work is managing the emotions of humans in a high state of distress. Jumping into coursework only to find the job you are pursuing is not a good fit wastes time and money, so do some exploring first.</p>
 
-<h4 style="color:slateblue;">Research Resources</h4>
+<h3 style="color:slateblue;">Research Resources</h3>
 <p><b>Career assessment tests</b> <br>Career Assessment Tests can be a good starting point when you aren’t sure of your direction. These tests ask a series of questions about your interests and personality and use this information to suggest fields and careers. <a href="https://www.themuse.com/advice/the-11-best-career-quizzes-to-help-you-find-your-dream-job">This site</a> offers a detailed list of assessments you can explore.</p>
 <p><b>You Tube videos</b><br> A simple You Tube search can turn up a number of informational and day-in-the-life videos. <a href="https://researchguides.library.tufts.edu/c.php?g=959242&p=7266988">Research the source of the video </a> to make sure it is reliable.</p>
 <p><b>Industry websites</b><br> If there are organizations, associations, or publications associated with your field, check out their websites and social media accounts. Publications and postings can provide insight into issues relevant to the field as well as information about the kinds of positions available. </p>
 <p><b>Information sessions</b> <br>Colleges and universities often hold information sessions for high demand programs. These sessions will offer you information about the academic requirements associated with a degree or certificate as well as the timeline for completion. Sometimes, information about job placement prospects post-graduation is provided. Search institution and program websites for a list of information sessions or email the department to ask if any are upcoming.</p>
-<h4 style="color:slateblue;"> What to Research</h4>
+<h3 style="color:slateblue;"> What to Research</h3>
 	
 <p>Getting started on research can feel a bit overwhelming. There are no hard and fast rules about what to look for, but the following will provide a starting place. Dig deeper into any area that feels interesting or relevant.</p>
 <p><b>Degrees and certificates in your field</b><br>
@@ -44,7 +44,7 @@ Finally, consider the physical requirements of your position(s). Will you be on 
 <p><b>Job satisfaction</b><br>
 You can find job satisfaction information online and by asking those in the field. Are workers in these fields or positions generally satisfied? Is there typically a lot of movement out of this field, or do workers tend to stick around for the span of their career?
 </p>
-<h4 style="color:slateblue;">Informational Interviews</h4>
+<h3 style="color:slateblue;">Informational Interviews</h3>
 <p><b>What is an informational interview?</b><br>
 Informational interviews are conducted with someone in your intended field or position to learn more about the work you are considering.
 </p>
@@ -63,24 +63,24 @@ Informational interviews are conducted with someone in your intended field or po
 		<li><b>Follow up with a thank you note</b>. Your interviewee is taking time out of their day to meet with you, and this individual could become a networking resource. A thank you is important for both acknowledging the time commitment and building the relationship. A handwritten note is always nice, but an email can also work. Send this within 1 week of meeting. This does not need to be long, but a few lines that thank them for their time and note 1 or 2 things you found helpful can go a long way.</li>
 	</ul>
 </ol>
-<h2 style="color:orange;">Choosing an Institution</h2>
-<h3 style="color:orange;">College Types</h3>
+<h1 style="color:orange;">Choosing an Institution</h1>
+<h2 style="color:orange;">College Types</h2>
 <p>There are 3 types of institutions: 4-year institutions, 2-year institutions, and technical colleges. While there are overlaps in the courses and degrees offered at these schools, there are also big differences. The type of school you choose will be dependent upon the degree or certificate you will pursue as well as your budget.</p>
 <p><b>4 Year Institutions</b><br> 4-year institutions are colleges or universities that offer bachelor’s degrees. The degrees offered and overall size of the institution vary, and many offer advanced degrees (masters and doctoral degrees), but you will not find 2 year associate degrees here. If the position(s) you are exploring require a bachelor’s degree you will likely end up at a 4-year institution, but this may not be your starting point. Many students begin at a 2-year institution and then transfer to a 4 year when they are ready to begin coursework in their major area.</p>
 <p><b>2 Year Institutions</b><br> 2-year institutions, sometimes called community colleges, offer associate degrees and some certificates. Some offer bachelor’s degrees, but program options for these will be limited. For some positions an associate is all you need, but many positions eventually require a bachelors or higher. However, tuition at a 2-year institution is less than it would be at a 4-year institution, sometimes significantly. Many 2-year degrees are transfer degrees, which means that they are meant for students who plan to complete their first 2 years of a bachelor’s degree at the community college and then transfer. This can be an economical way to approach your education.</p>
 <p><b>Technical Colleges</b><br> A technical college is similar to a 2-year college, but most of its degrees and certificates are focused on getting students into specific careers. Programs tend to focus on a particular trade or position (welder, electrician, nurse, etc.), and students are prepared to begin working in this position upon graduation. A technical college is a great route for someone who knows exactly which career they want, but those who are less certain may benefit from a 2 year or 4-year institution that allows them to focus on a field and delay a decision about a specific role.</p>
 
-<h3 style="color:orange;">Accreditation</h3>
-<h4 style="color:slateblue;">What is accreditation?</h4>
+<h2 style="color:orange;">Accreditation</h2>
+<h3 style="color:slateblue;">What is accreditation?</h3>
 <p>Institutes of higher education earn accreditation by meeting certain standards. Earning accreditation means that the institution is providing a high level of education and meeting a range of requirements. It also means the institutions can access resources like financial aid, and that the credits they offer will be accepted as valid academically and professionally. <br>
 
 When conducting research, make sure the institution(s) you are considering are regionally accredited. Coursework taken at a nationally accredited or unaccredited institution is often not acknowledged academically or professionally. This means that you may not be able transfer credits earned to another institution or that the degree you earn will not be acknowledged professionally.
 </p>
-<h4 style="color:slateblue;">Regional versus national accreditation</h4>
+<h3 style="color:slateblue;">Regional versus national accreditation</h3>
 You don’t need to understand the ins and outs of the accreditation process, but know that regional accreditation is much better than national accreditation. While national accreditation is usually better than no accreditation, most regionally accredited institutions will not accept transfer credits from these schools. In addition, degrees earned from nationally accredited institutions are often not acknowledge and this may prevent students from qualifying for careers in their field or being able to earn certification offered by the state. Nationally accredited institutions or often for profit schools and/or those offering religious education. Accreditation information should be readily available on an institution’s website, but ask if you can’t find it.
-<h3 style="color:orange;">Conducting Research</h3>
+<h2 style="color:orange;">Conducting Research</h2>
 <p>As with a career search, you will want to research potential institutions before committing to coursework. You should have a general sense of the programs or areas that interest you before getting started and use this information to guide your search.</p>
-<h4 style="color:slateblue;">What to research</h4>
+<h3 style="color:slateblue;">What to research</h3>
 <p><b>Prerequisite requirements</b><br>
 Prerequisites are requirements that must be met before beginning program specific coursework. These can be minor, such as placement into a certain level of math or English, or significant, such as 1-2 years of coursework that will prepare you for your program. You want to know what all is involved. An associate degree in nursing, for example, typically includes at least 60 credits of prerequisite coursework, which will take most full-time students 1.5 years to complete. This is on top of the 2-year nursing program, so students should know in advance that they are looking at somewhere closer to 4 years of school to complete a 2 year degree.
 </p>
@@ -104,26 +104,26 @@ An important indicator of program success is the percentage of students who comp
 An important question to ask a program representative is how many students are employed post-graduation in their desired field and how long it takes them to find employment. This information is sometimes published on the website, but ask an advisor or department representative if it is not readily available. These numbers will vary by industry, but you want to know that at least 80% of graduates are finding employment in their intended roles within 6 months of graduation. If the percentage is lower, ask for an explanation. Sometimes there are industry specific factors to take into account.
 </p>
 
-<h3 style="color:orange;">Where to Conduct Research</h3>
-<h4 style="color:slateblue;">Program Websites</h4>
+<h2 style="color:orange;">Where to Conduct Research</h2>
+<h3 style="color:slateblue;">Program Websites</h3>
 
 <p>Once you identify a field, program websites are a good starting place. These are often listed in an ‘Academics’ section of the college or university website, but you can also use the search feature. Program sites should list prerequisite requirements and the courses you will take once in the program. When applicable, these should also describe the application process.
 Program websites also typically provide contact information for program staff, and these individuals can be a great resource as you research.
 </p>
 
-<h4 style="color:slateblue;">Information Sessions</h4>
+<h3 style="color:slateblue;">Information Sessions</h3>
 
 <p>Programs often offer information sessions that provide details about prerequisites, admission processes, and in-program information. You can typically find scheduling information for these on a program website.</p>
 
-<h3 style="color:orange;">Planning ahead: Funding an Education</h3>
+<h2 style="color:orange;">Planning ahead: Funding an Education</h2>
 
 <p>Funding is a key piece of information for most adult learners, and it often informs choices you make about program, degree, and institution. The world of financial aid can feel overwhelming, but there are a few important starting points.</p>
 
-<h4 style="color:slateblue;">Calculate tuition, fees and supplies</h4>
+<h3 style="color:slateblue;">Calculate tuition, fees and supplies</h3>
 
 <p>You should start by estimating the overall cost of your program. It is a good idea to put together multiple estimates using the considerations noted above for different programs and institutions so that you can compare and contrast.</p>
 
-<h4 style="color:slateblue;">Funding Types</h4>
+<h3 style="color:slateblue;">Funding Types</h3>
 <p><b>Federal Funding</b><br>
 The Free Application for Federal Student Aid, or FAFSA, is an important starting point. Submitting the application allows you to be considered for federal grants, which do not need to be paid back, as well as student loans. Even if you do not plan to make use of federal funding, you should submit a FAFSA annually as many scholarship and grant applications require that this is on file. To submit, you will need a number of personal and financial documents. Check out the FAFSA checklist for a full list.<br>
 The FAFSA can take up to 10 weeks to process, so plan ahead and submit this early.
@@ -141,8 +141,8 @@ Student loans are offered through banks and private lenders, but this should be 
 For those paying out of pocket, many institutions offer payment plans that allow you to spread payments across the quarter or semester rather than paying all at once. Talk to your institution’s Financial Aid office to learn more.
 </p>
 
-<h3 style="color:orange;">Applying and Getting Started</h3>
-<h4 style="color:slateblue;">Applying</h4>
+<h2 style="color:orange;">Applying and Getting Started</h2>
+<h3 style="color:slateblue;">Applying</h3>
 <p>So you have narrowed in on your intended field or career and identified institutions that best meet your needs. Congratulations! It’s time to apply.</p>
 
 <p><b>Applying to the college or university</b><br>
@@ -152,7 +152,7 @@ Your first step will be applying to the college or university. If the college ha
 Some programs have separate applications, and you will need to research your program to see if this is the case. You will need to apply to the institution first, but then try to schedule a meeting with an advisor associated with your program to talk through the process. They can tell if you are ready to apply, describe the application process, and talk you through their program in more detail. They can also help you get registered.
 </p>
 
-<h3 style="color:orange;">Conclusion</h3>
+<h2 style="color:orange;">Conclusion</h2>
 <p>First, congratulations on taking this step. Beginning or returning to a college education as an adult can feel intimidating but remember that you have the experience and knowledge to navigate this process. Take it step-by-step and don’t cut corners on the research. Entering this journey with a clear sense of your goals and an understanding of the academic process is the best preparation you can have. You’ve got this!</p>
 
 </body>
