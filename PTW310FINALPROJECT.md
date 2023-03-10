@@ -53,14 +53,14 @@ Informational interviews are conducted with someone in your intended field or po
 	<li><b>Who to ask.</b> Interviews require the time and energy of an interviewee, so reaching out to those with whom you already have a relationship is ideal. This can be a friend, family member, or coworker. If you do not have an existing relationship with someone in the field, you can contact an office or company that specializes in your area. Just know that some may decline your request or not respond at all. If you choose this route, you can call or email specific individuals or make use of the ‘Contact Us’ option on the company website to see if anyone is available to meet with you.</li></p>
 	<li><b>How to request an interview.</b></li>
 	<ul>
-		<li><i>Clarify the time commitment</i>. Do not ask for more than 30 minutes of time. You can extend the interview if the interviewee is willing to talk for longer, but make sure to give them an out at the 30-minute point.</li>
-		<li><i>Offer multiple modalities</i>. Provide the interviewee with as many meeting options as possible – in-person, Zoom or phone. You can also offer to conduct the interview via email, sending them a list of questions they can answer in writing to return to you when they are able.</li>
-		<li><i>Suggest a location</i>. If meeting in-person, provide the interviewee with multiple options. Offer to meet at their place of work, but also suggest an alternative, like a coffee shop. If meeting at the coffee shop or café, plan to pay for their beverage.</li>
+		<li><b>Clarify the time commitment</b>. Do not ask for more than 30 minutes of time. You can extend the interview if the interviewee is willing to talk for longer, but make sure to give them an out at the 30-minute point.</li>
+		<li><b>Offer multiple modalities</b>. Provide the interviewee with as many meeting options as possible – in-person, Zoom or phone. You can also offer to conduct the interview via email, sending them a list of questions they can answer in writing to return to you when they are able.</li>
+		<li><b>Suggest a location</b>. If meeting in-person, provide the interviewee with multiple options. Offer to meet at their place of work, but also suggest an alternative, like a coffee shop. If meeting at the coffee shop or café, plan to pay for their beverage.</li>
 	</ul>
 	<li><b>How to prepare for the interview.</b></li>
 	<ul>
-		<li><i>Come prepared with questions</i>. You should have conducted research before meeting with this person and arrive to the interview with a list of 5-10 questions. The ‘What to research’ portion of this guide provides some possible topics. It’s okay if you don’t get to every question, and the conversation may go in an entirely different direction, but having questions ensures that you have material to cover when you meet. Never assume that the interviewee will take the lead in your meeting or come prepared with information. It is your responsibility to set an agenda.</li>
-		<li><i>Follow up with a thank you note</i>. Your interviewee is taking time out of their day to meet with you, and this individual could become a networking resource. A thank you is important for both acknowledging the time commitment and building the relationship. A handwritten note is always nice, but an email can also work. Send this within 1 week of meeting. This does not need to be long, but a few lines that thank them for their time and note 1 or 2 things you found helpful can go a long way.</li>
+		<li><b>Come prepared with questions</b>. You should have conducted research before meeting with this person and arrive to the interview with a list of 5-10 questions. The ‘What to research’ portion of this guide provides some possible topics. It’s okay if you don’t get to every question, and the conversation may go in an entirely different direction, but having questions ensures that you have material to cover when you meet. Never assume that the interviewee will take the lead in your meeting or come prepared with information. It is your responsibility to set an agenda.</li>
+		<li><b>Follow up with a thank you note</b>. Your interviewee is taking time out of their day to meet with you, and this individual could become a networking resource. A thank you is important for both acknowledging the time commitment and building the relationship. A handwritten note is always nice, but an email can also work. Send this within 1 week of meeting. This does not need to be long, but a few lines that thank them for their time and note 1 or 2 things you found helpful can go a long way.</li>
 	</ul>
 </ol>
 <h2 style="color:orange;">Choosing an Institution</h2>
@@ -157,4 +157,3 @@ Some programs have separate applications, and you will need to research your pro
 
 </body>
 </html>
-
