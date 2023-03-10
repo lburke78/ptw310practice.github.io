@@ -125,9 +125,9 @@ Program websites also typically provide contact information for program staff, a
 
 <h3 style="color:slateblue;">Funding Types</h3>
 <p><b>Federal Funding</b><br>
-The Free Application for Federal Student Aid, or FAFSA, is an important starting point. Submitting the application allows you to be considered for federal grants, which do not need to be paid back, as well as student loans. Even if you do not plan to make use of federal funding, you should submit a FAFSA annually as many scholarship and grant applications require that this is on file. To submit, you will need a number of personal and financial documents. Check out the FAFSA checklist for a full list.<br>
-The FAFSA can take up to 10 weeks to process, so plan ahead and submit this early.
-</p>
+The Free Application for Federal Student Aid, or <a href="https://studentaid.gov/h/apply-for-aid/fafsa">FAFSA</a>, is an important starting point. Submitting the application allows you to be considered for federal grants, which do not need to be paid back, as well as student loans. Even if you do not plan to make use of federal funding, you should submit a FAFSA annually as many scholarship and grant applications require that this is on file. To submit, you will need a number of personal and financial documents. Check out the FAFSA checklist for a full list.<br>
+<p>The FAFSA can take up to 10 weeks to process, so plan ahead and submit this early.</p>
+	
 <p><b>State Funding</b><br>
 Each state is different in terms of its funding, but most have some sort of student aid program. For undocumented students or those without a social security number, state options may be available when federal funding is not. If you cannot find information about state options through a Google search, individual institutions often provide this information. Don’t be afraid to ask.
 </p>
